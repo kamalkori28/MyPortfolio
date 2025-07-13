@@ -4,7 +4,7 @@ export const Home = () => {
   return (
     <section
       id="home"
-      className="min-h-screen flex items-center justify-center relative bg-[url('/Kamal-Portfolio/bgImg/bg_portfolio.jpg')] bg-cover bg-center"
+      className="min-h-screen flex items-center justify-center relative bg-[url('/bgImg/bg_portfolio.jpg')] bg-cover bg-center"
     >
       <div className="absolute inset-0 bg-black/60 z-0" />
 
@@ -20,7 +20,7 @@ export const Home = () => {
 
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="/Kamal-Portfolio/ResumeD/MY_Resume2025.pdf"
+              href="/ResumeD/MY_Resume2025.pdf"
               download="Kamal_Kori_CV.pdf"
               className="py-3 px-6 rounded bg-cyan-400 text-white font-bold text-xl border border-white/10 hover:-translate-y-1 hover:bg-gradient-to-r hover:from-cyan-400 hover:to-blue-500 hover:shadow-[0_0_15px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out"
             >

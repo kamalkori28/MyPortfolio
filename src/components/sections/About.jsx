@@ -41,16 +41,16 @@ I'm constantly exploring new frontend tools and trends to keep improving and sta
             <h3 className="text-2xl font-bold mb-6 text-cyan-400">⚙️ Skills & Technologies</h3>
             <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-15 justify-items-center">
               {[
-                { name: "HTML", icon: "/Kamal-Portfolio/icons/html.svg" },
-                { name: "CSS", icon: "/Kamal-Portfolio/icons/css.svg" },
-                { name: "JavaScript", icon: "/Kamal-Portfolio/icons/js.svg" },
-                { name: "React", icon: "/Kamal-Portfolio/icons/react.svg" },
-                { name: "Tailwind", icon: "/Kamal-Portfolio/icons/tailwind.svg" },
-                { name: "", icon: "/Kamal-Portfolio/icons/php.svg" },
-                { name: "", icon: "/Kamal-Portfolio/icons/mysql.svg" },
-                { name: "", icon: "/Kamal-Portfolio/icons/c.svg" },
-                { name: "", icon: "/Kamal-Portfolio/icons/cpp.svg" },
-                { name: "git", icon: "/Kamal-Portfolio/icons/git.svg" },
+                { name: "HTML", icon: "/icons/html.svg" },
+                { name: "CSS", icon: "/icons/css.svg" },
+                { name: "JavaScript", icon: "/icons/js.svg" },
+                { name: "React", icon: "/icons/react.svg" },
+                { name: "Tailwind", icon: "/icons/tailwind.svg" },
+                { name: "", icon: "/icons/php.svg" },
+                { name: "", icon: "/icons/mysql.svg" },
+                { name: "", icon: "/icons/c.svg" },
+                { name: "", icon: "/icons/cpp.svg" },
+                { name: "git", icon: "/icons/git.svg" },
               ].map((tech, key) => (
                 <div
                   key={key}
