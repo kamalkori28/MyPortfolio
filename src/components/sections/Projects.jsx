@@ -30,11 +30,11 @@ management and responsive design for cross-device support</p>
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/kamalkori28/Aichatbot"
+                  href="https://aichatbot-six-opal.vercel.app/"
                   className="relative group text-white hover:text-cyan-400 transition-colors my-4"
                   target="_blank"
                 >
-                  View Project →
+                  View Project Live →
                   <span className="absolute left-0 -bottom-1 h-0.5 w-0 bg-cyan-400 transition-all duration-300 ease-in-out group-hover:w-full"></span>
                 </a>
               </div>
@@ -42,14 +42,14 @@ management and responsive design for cross-device support</p>
 
             {/* Project 2 */}
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 text-center glass hover:border-cyan-400 hover:shadow-[0_0_20px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out">
-              <h3 className="text-xl font-bold mb-2 text-cyan-400">E-Commerce Web App</h3>
+              <h3 className="text-xl font-bold mb-2 text-cyan-400">Password Generator</h3>
               <p className="text-white mb-4">
-                Responsive e-commerce frontend built using HTML, CSS, and JavaScript. Features include a modern UI, product listing, shopping cart functionality, and smooth user interactions.
+                A secure and easy-to-use password generator built using HTML, CSS, and JavaScript. Allows users to generate strong, customizable passwords with options like length, uppercase, lowercase, numbers, and symbols.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["HTML", "CSS", "JS", "PHP"].map((tech, key) => (
+                {["HTML", "CSS", "JS"].map((tech) => (
                   <span
-                    key={key}
+                    key={tech}
                     className="bg-blue-500/10 text-cyan-400 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
                   >
                     {tech}
@@ -58,15 +58,16 @@ management and responsive design for cross-device support</p>
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/kamalkori28/Ecommerce-Website"
+                  href="https://password-gen-wine.vercel.app/"
                   className="relative group text-white hover:text-cyan-400 transition-colors my-4"
                   target="_blank"
                 >
-                  View Project →
+                  View Project Live →
                   <span className="absolute left-0 -bottom-1 h-0.5 w-0 bg-cyan-400 transition-all duration-300 ease-in-out group-hover:w-full"></span>
                 </a>
               </div>
             </div>
+
 
             {/* Project 3 */}
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 text-center glass hover:border-cyan-400 hover:shadow-[0_0_20px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out">
@@ -96,16 +97,18 @@ management and responsive design for cross-device support</p>
               </div>
             </div>
 
-            {/* Project 4 */}
+
+
+            {/* Project 4
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 text-center glass hover:border-cyan-400 hover:shadow-[0_0_20px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out">
-              <h3 className="text-xl font-bold mb-2 text-cyan-400">Password Generator</h3>
+              <h3 className="text-xl font-bold mb-2 text-cyan-400">E-Commerce Web App</h3>
               <p className="text-white mb-4">
-                A secure and easy-to-use password generator built using HTML, CSS, and JavaScript. Allows users to generate strong, customizable passwords with options like length, uppercase, lowercase, numbers, and symbols.
+                Responsive e-commerce frontend built using HTML, CSS, and JavaScript. Features include a modern UI, product listing, shopping cart functionality, and smooth user interactions.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
-                {["HTML", "CSS", "JS"].map((tech) => (
+                {["HTML", "CSS", "JS", "PHP"].map((tech, key) => (
                   <span
-                    key={tech}
+                    key={key}
                     className="bg-blue-500/10 text-cyan-400 py-1 px-3 rounded-full text-sm hover:bg-blue-500/20 hover:shadow-[0_2px_8px_rgba(59,130,246,0.1)] transition-all"
                   >
                     {tech}
@@ -114,7 +117,7 @@ management and responsive design for cross-device support</p>
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/kamalkori28/PasswordGen"
+                  href="https://github.com/kamalkori28/Ecommerce-Website"
                   className="relative group text-white hover:text-cyan-400 transition-colors my-4"
                   target="_blank"
                 >
@@ -123,7 +126,7 @@ management and responsive design for cross-device support</p>
                 </a>
               </div>
             </div>
-
+   */}
 
 
             {/* Project 5 */}
