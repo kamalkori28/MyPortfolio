@@ -50,6 +50,7 @@ I'm constantly exploring new frontend tools and trends to keep improving and sta
                 { name: "", icon: "/icons/mysql.svg" },
                 { name: "", icon: "/icons/c.svg" },
                 { name: "", icon: "/icons/cpp.svg" },
+                { name: "", icon: "/icons/python.svg" },
                 { name: "git", icon: "/icons/git.svg" },
               ].map((tech, key) => (
                 <div

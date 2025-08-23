@@ -20,7 +20,7 @@ export const Home = () => {
 
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="/ResumeD/MY_Resume2025.pdf"
+              href="/ResumeD/Kamal_CV.pdf"
               download="Kamal_Kori_CV.pdf"
               className="py-3 px-6 rounded bg-cyan-400 text-white font-bold text-xl border border-white/10 hover:-translate-y-1 hover:bg-gradient-to-r hover:from-cyan-400 hover:to-blue-500 hover:shadow-[0_0_15px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out"
             >
