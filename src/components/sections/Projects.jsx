@@ -133,7 +133,7 @@ management and responsive design for cross-device support</p>
             <div className="glass p-6 rounded-xl border border-white/10 hover:-translate-y-1 text-center glass hover:border-cyan-400 hover:shadow-[0_0_20px_rgba(34,211,238,0.6)] transition duration-300 ease-in-out">
               <h3 className="text-xl font-bold mb-2 text-cyan-400">Jarvis</h3>
               <p className="text-white mb-4">
-                Work in Progress......
+                Developed a voice-activated AI assistant using Python, integrating speech recognition, natural language processing, and text-to-speech capabilities to perform tasks like web searches, email sending, and application launching.
               </p>
               <div className="flex flex-wrap gap-2 mb-4">
                 {["Python"].map((tech) => (
@@ -147,7 +147,7 @@ management and responsive design for cross-device support</p>
               </div>
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/kamalkori28/Jarvis"
+                  href="https://github.com/kamalkori28/Jarvis3"
                   className="relative group text-white hover:text-cyan-400 transition-colors my-4"
                   target="_blank"
                 >
