@@ -25,9 +25,9 @@ export const LoadingScreen = ({ onComplete }) => {
           setTimeout(onComplete, 500);
           return 100;
         }
-        return prev + 5;
+        return prev + 15;
       });
-    }, 200);
+    }, 100);
 
     const messageInterval = setInterval(() => {
       setMessageIndex((prev) => (prev + 1) % messages.length);
