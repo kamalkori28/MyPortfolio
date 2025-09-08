@@ -32,9 +32,9 @@
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/0000000/000000000-portfolio-screenshot.png" alt="Portfolio Screenshot" width="80%" />
-</p>
+| Desktop View | Mobile View |
+|--------------|-------------|
+| <img src="./screenshots/02_Home.png" alt="Homepage Screenshot" width="100%" /> | <img src="./screenshots/06_responsive_home.jpg" alt="Mobile Screenshot" width="90%" /> |
 
 ---
 
