@@ -34,7 +34,7 @@
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| <img src="./screenshots/02_Home.png" alt="Homepage Screenshot" width="100%" /> | <img src="./screenshots/06_responsive_home.jpg" alt="Mobile Screenshot" width="90%" /> |
+| <img src="./screenshots/02_Home.png" alt="Homepage Screenshot" width="100%" /> | <img src="./screenshots/06_responsive_home.jpg" alt="Mobile Screenshot" width="100%" /> |
 
 ---
 
