@@ -5,7 +5,7 @@ import { FaInstagram } from 'react-icons/fa';
 
 export const SocialIcons = () => {
   return (
-    <div className="flex justify-center gap-6 p-6">
+    <div className="flex justify-center gap-10 p-6">
       {/* GitHub */}
       <a
         href="https://github.com/kamalkori28"
